@@ -21,6 +21,7 @@ Deployment: Can be integrated into mobile applications for real-time disease det
 Install dependencies using:
 ```sh
 pip install tensorflow numpy matplotlib opencv-python
+```
 
 ## Dataset Structure
 
@@ -39,6 +40,7 @@ The dataset follows this format:
         /class_1
         /class_2
         ...
+```
 
 ## Model Architecture
 
@@ -65,14 +67,15 @@ Test Loss: 0.112
 ## Usage
 
 Clone the repository:
-
 ```sh
 git clone https://github.com/yourusername/plant-disease-detection.git
 cd plant-disease-detection
+```
 
 Run the Jupyter Notebook:
-
+```sh
 jupyter notebook model.ipynb
+```
 
 ## Results
 
