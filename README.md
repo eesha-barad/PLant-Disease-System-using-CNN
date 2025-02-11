@@ -25,6 +25,9 @@ pip install tensorflow numpy matplotlib opencv-python
 
 ## Dataset Structure
 
+### Dataset Link:
+https://www.kaggle.com/datasets/moazeldsokyx/plantvillage
+
 The dataset follows this format:
 ```sh
 /dataset
